@@ -24,6 +24,7 @@ Built with Python, OpenCV, and the face_recognition library.
 ------------------------------------------------------------
 📁 Project Structure
 ------------------------------------------------------------
+```
 face‑recognition-with-name‑tagging/
 ├── known/                  # Folder to store known persons’ face images
 │   ├── john_doe.jpg
@@ -32,7 +33,7 @@ face‑recognition-with-name‑tagging/
 ├── face_recognize_and_name.py  # Main script
 ├── README.txt                  # This file
 └── requirements.txt            # Required Python libraries
-
+```
 Note: The known/ folder should contain one or more clear & front‑facing photos per person.
 Use filenames that reflect the person’s name, e.g. john_doe.jpg or jane‑smith.png.
 
